@@ -1,0 +1,52 @@
+[
+  {
+    "departurePlace": "Tirane, Albania",
+    "departureAbbreviation": "TIA",
+    "destinationPlace": "Munich, Germany",
+    "destinationAbbreviation": "MUC",
+    "operator": "Jetblue Airways",
+    "flightCode": "JT22554D",
+    "flightClass": "Economy",
+    "price": 350
+  },
+  {
+    "departurePlace": "New York, USA",
+    "departureAbbreviation": "NYC",
+    "destinationPlace": "Paris, France",
+    "destinationAbbreviation": "CDG",
+    "operator": "Avianca",
+    "flightCode": "AV123",
+    "flightClass": "Business",
+    "price": 550
+  },
+  {
+    "departurePlace": "Los Angeles, USA",
+    "departureAbbreviation": "LAX",
+    "destinationPlace": "Tokyo, Japan",
+    "destinationAbbreviation": "HND",
+    "operator": "Sky Airlines",
+    "flightCode": "SK789",
+    "flightClass": "First Class",
+    "price": 200
+  },
+  {
+    "departurePlace": "Sao Paulo, Brazil",
+    "departureAbbreviation": "GRU",
+    "destinationPlace": "Buenos Aires, Argentina",
+    "destinationAbbreviation": "EZE",
+    "operator": "Copa Airlines",
+    "flightCode": "CM456",
+    "flightClass": "Premium Economy",
+    "price": 320
+  },
+  {
+    "departurePlace": "Sydney, Australia",
+    "departureAbbreviation": "SYD",
+    "destinationPlace": "Auckland, New Zealand",
+    "destinationAbbreviation": "AKL",
+    "operator": "LATAM Airlines",
+    "flightCode": "LA789",
+    "flightClass": "Business",
+    "price": 630
+  }
+]

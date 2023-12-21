@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Standard Room",
+    "description": "A cozy room with all the basic amenities.",
+    "facilities": [
+      "Wi-Fi",
+      "Air conditioning",
+      "Private bathroom"
+    ],
+    "price": 50,
+    "image": "https://elcomercio.pe/resizer/pfr9uvs5EojbKKmnLQfL27eiT4w=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/JLLIVKJJOBAFJCW7FPOYTICIBQ.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Deluxe Room",
+    "description": "Spacious room with a beautiful view of the city.",
+    "facilities": [
+      "Wi-Fi",
+      "Air conditioning",
+      "Private bathroom",
+      "Mini bar"
+    ],
+    "price": 100,
+    "image": "https://elcomercio.pe/resizer/6bxCpMB8j4cg_sugvcF4vvi0NNE=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/CVTKPEOEWFEAVP5UYTPPTP45AM.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Suite",
+    "description": "Luxurious suite with separate living area and premium facilities.",
+    "facilities": [
+      "Wi-Fi",
+      "Air conditioning",
+      "Private bathroom",
+      "Mini bar",
+      "Jacuzzi"
+    ],
+    "price": 200,
+    "image": "https://s1.abcstatics.com/Media/201504/27/hotel12--644x362.jpg"
+  }
+]
